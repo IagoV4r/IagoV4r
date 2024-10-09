@@ -15,7 +15,7 @@
 # Translations
 
 - [English](https://github.com/IagoV4r/IagoV4r)
-- [Português brasileiro / Brazilian portuguese](./multilingual_readmes/README_pt-br.md)
+- [Português brasileiro / Brazilian portuguese](./README_pt-br.md)
 
 <br>
 
