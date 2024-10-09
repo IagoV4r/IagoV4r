@@ -9,7 +9,6 @@
 - [Most used languages](#my-languages)
 - [Professional experience](#professional-experience)
 - [References](#references)
-
 <br>
 
 # Translations
